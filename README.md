@@ -1,25 +1,9 @@
-### Hi there 👋
-
-<!--
-**Mika-IO/Mika-IO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <img src="https://user-images.githubusercontent.com/55309160/91332265-51b8b880-e7a2-11ea-89bb-a99c758d35df.gif">
 <p>
   <samp>
-     E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
+     👋 E aí? eu sou o <a href="|https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio </a> :wave:
     <br />
-    :rocket: Linguagens e Frameworks
+    :rocket: Linguagens e Frameworks:
     <br />
     <br /><code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
     <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
@@ -48,5 +32,3 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-
