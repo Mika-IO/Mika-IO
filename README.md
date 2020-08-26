@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/55309160/91332265-51b8b880-e7a2-11ea-89bb-a99c758d35df.gif">
 <p>
   <samp>
-     👋 E aí? eu sou o <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio </a>!! Dá uma olhada nos meu projetos aí!!
+     👋 E aí? Eu sou o <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio </a>!! Dá uma olhada nos meu projetos aí!! Se quiser contribuir em algo sinta se a vontade!!
     <br />
     :rocket: Conhecimentos e interesses:
     <br />
