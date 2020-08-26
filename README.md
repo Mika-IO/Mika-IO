@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<img src="">
+<img src="https://user-images.githubusercontent.com/55309160/91332265-51b8b880-e7a2-11ea-89bb-a99c758d35df.gif">
 <p>
   <samp>
      E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
