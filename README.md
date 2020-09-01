@@ -25,7 +25,7 @@
     <a href="https://twitter.com/mlevanto">
       <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/">
+    <a href="https://www.linkedin.com/in/mikaiofaria/">
       <img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
     </a>
     <a href="https://discord.gg/tfgqSh">
