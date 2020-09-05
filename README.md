@@ -31,6 +31,9 @@
     <a href="https://discord.gg/tfgqSh">
       <img align="left" alt="Discord Server"  width="25px" src="https://user-images.githubusercontent.com/55309160/91333572-1fa85600-e7a4-11ea-8653-139c9f67fd85.png" />
     </a>
+    <a href="https://api.whatsapp.com/message/56ES4W7G2MZXI1">
+      <img align="left" alt="whatsapp"  width="25px" src="https://user-images.githubusercontent.com/55309160/92312292-c4d9e000-ef95-11ea-8524-c9d61256980b.png" />
+    </a>
   </samp>
 </p>
 
