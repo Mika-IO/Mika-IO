@@ -3,11 +3,11 @@
 <br>
 <p>
   <samp>
-     👋 What's up bro!! My name is <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio </a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free !!
+     👋  What's up bro!! My name is <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio</a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free!!
     <br />
     <br>
     <br>
-    :rocket: Knowledge and interests:
+    :rocket:  Knowledge and interests:
     <br />
     <br /><code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
     <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
@@ -23,7 +23,7 @@
 
 <p>
   <samp>
-     :coffee: Would you like to talk to me? 
+     :coffee:  Would you like to talk to me? 
     <br />
     <br />
     <a href="https://twitter.com/mlevanto">
