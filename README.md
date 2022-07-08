@@ -27,7 +27,7 @@
     <br />
     <br />
     <a href="mailto:mikaiodev@gmail.com">
-      <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+      <img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/55309160/177916388-d7c5e150-6135-4435-a066-64b6b384188b.png" />
     </a>
     <a href="https://www.linkedin.com/in/mikaiofaria/">
       <img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
