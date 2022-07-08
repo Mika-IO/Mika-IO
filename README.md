@@ -23,10 +23,10 @@
 
 <p>
   <samp>
-     :coffee:  Would you like to talk to me? 
+     :coffee:  Would you like contact me? 
     <br />
     <br />
-    <a href="https://twitter.com/mlevanto">
+    <a href="mailto:mikaiodev@gmail.com">
       <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
     </a>
     <a href="https://www.linkedin.com/in/mikaiofaria/">
@@ -37,6 +37,9 @@
     </a>
     <a href="https://api.whatsapp.com/send/?phone=5569992583935&text=Ol%C3%A1+Mikaio%21+Vim+pelo+Github%21&type=phone_number&app_absent=0">
       <img align="left" alt="whatsapp"  width="25px" src="https://user-images.githubusercontent.com/55309160/92312292-c4d9e000-ef95-11ea-8524-c9d61256980b.png" />
+    </a>
+    <a href="https://twitter.com/mlevanto">
+      <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
     </a>
   </samp>
 </p>
