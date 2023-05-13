@@ -24,7 +24,7 @@
       <!-- rust -->
       <img height="24" src="https://mika-io.github.io/img/rust.png" />
       <!-- rust -->
-      <img height="24" src="https://mika-io.github.io/img/aws.png" />
+      <img height="24" style="filter: invert(100%);" src="https://mika-io.github.io/img/aws.png" />
   </samp>
 </p>
 <br>
