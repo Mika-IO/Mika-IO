@@ -2,8 +2,7 @@
 <br>
 <br>
 <p>
-  <style>.imgblack {filter: invert(0%) sepia(0%) saturate(7500%) hue-rotate(340deg) brightness(99%) contrast(106%);}</style>
-  <samp>
+  <samp style="background-color:0d1117">
      👋  What's up bro!! My name is <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio</a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free!!
     <br />
     <br>
