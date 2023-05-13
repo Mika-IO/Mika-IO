@@ -24,7 +24,7 @@
       <!-- rust -->
       <img height="24" src="https://mika-io.github.io/img/rust.png" />
       <!-- rust -->
-      <img height="24" style="filter: invert(100%);" src="https://mika-io.github.io/img/aws.png" />
+      <img height="24" style="filter: invert(0%) sepia(0%) saturate(7500%) hue-rotate(340deg) brightness(99%) contrast(106%);" src="https://mika-io.github.io/img/aws.png" />
   </samp>
 </p>
 <br>
