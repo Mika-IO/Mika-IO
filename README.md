@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/55309160/91332265-51b8b880-e7a2-11ea-89bb-a99c758d35df.gif">
 <br>
 <br>
-<p style="background-color:0d1117">
+<p>
   <samp>
      👋  What's up bro!! My name is <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio</a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free!!
     <br />
@@ -24,7 +24,7 @@
       <!-- rust -->
       <img height="24" src="https://mika-io.github.io/img/rust.png" />
       <!-- rust -->
-      <img height="24" class="imgblack" src="https://mika-io.github.io/img/aws.png" />
+      <img height="24" style="background-color: 0d1117;" src="https://mika-io.github.io/img/aws.png" />
   </samp>
 </p>
 <br>
