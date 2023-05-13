@@ -10,21 +10,21 @@
     :rocket:  Knowledge and interests:
     <br />
       <!-- python -->
-      <img height="24" src="img/python.png" />
+      <img height="24" src="https://mika-io.github.io/img/python.png" />
       <!-- django -->
-      <img height="24" src="img/django.png" />
+      <img height="24" src="https://mika-io.github.io/img/django.png" />
       <!-- html -->
-      <img height="24" src="img/html.png" />
+      <img height="24" src="https://mika-io.github.io/img/html.png" />
       <!-- css -->
-      <img height="24" src="img/css.png" />
+      <img height="24" src="https://mika-io.github.io/img/css.png" />
       <!-- javascript -->
-      <img height="24" src="img/javascript.png" />
+      <img height="24" src="https://mika-io.github.io/img/javascript.png" />
       <!-- react -->
-      <img height="24" src="img/react.png" />
+      <img height="24" src="https://mika-io.github.io/img/react.png" />
       <!-- rust -->
-      <img height="24" src="img/rust.png" />
+      <img height="24" src="https://mika-io.github.io/img/rust.png" />
       <!-- rust -->
-      <img height="24" src="img/aws.png" />
+      <img height="24" src="https://mika-io.github.io/img/aws.png" />
   </samp>
 </p>
 <br>
