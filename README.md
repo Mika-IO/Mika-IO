@@ -3,7 +3,7 @@
 <br>
 <p>
   <samp>
-     👋  What's up bro!! My name is <a href="https://www.linkedin.com/in/mikaio-faria-2537b1170/"> Mikaio</a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free!!
+     👋  What's up bro!! My name is <a href="https://mikaio.dev"> Mikaio</a>!! I'm software developer!! Take a look at my projects!! If you want to contribute something feel free!!
     <br />
     <br>
     <br>
