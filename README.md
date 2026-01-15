@@ -29,6 +29,8 @@
 </p>
 <br>
 
+https://docs.google.com/document/d/1dyht9mVVXS49jLrWdDFgtwXV7Bx1iIldXOnX8SKSTsA/edit?usp=sharing
+
 <p>
   <samp>
      :coffee:  Would you like contact me? 
