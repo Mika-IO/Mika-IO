@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/typing.gif" width="400" alt="typing" />
+
 # Mikaio Faria
 
 ### Senior Software Engineer · Backend &amp; AI
@@ -24,10 +26,10 @@ Currently a Senior Software Developer at **Itaú** (via BRQ Digital), building m
 
 | Project | What it is |
 | --- | --- |
-| [**aithor**](https://aithor.ca) | AI blog-on-autopilot — researches a niche, writes SEO articles with an LLM and publishes them to WordPress. |
-| [**fasty.food**](https://fasty.food) | Digital-menu &amp; ordering SaaS for restaurants, with AI that builds a menu from a PDF or photo. |
-| [**PixBitcoin**](https://pixbitcoin.org) | Self-serve Bitcoin &amp; stablecoin on-ramp via Pix, settled on the Liquid Network. |
-| [**LangMentor AI**](https://langmentor-ai.com) | Language-learning app with read-aloud pronunciation practice and progress tracking. |
+| [**aithor**](https://aithor.ca) | AI-powered blog automation tool. |
+| [**fasty.food**](https://fasty.food) | A digital menu and ordering platform for restaurants. |
+| [**PixBitcoin**](https://pixbitcoin.org) | A fiat-to-crypto gateway for buying Bitcoin via Pix. |
+| [**LangMentor AI**](https://langmentor-ai.com) | A language-learning app with read-aloud pronunciation practice. |
 
 ---
 
@@ -56,7 +58,7 @@ Currently a Senior Software Developer at **Itaú** (via BRQ Digital), building m
 
 ### Where I've worked
 
-**Itaú** (via BRQ Digital) · **Betterfly** (InsurTech unicorn, Chile) · **Tradex Solutions** · **Skuad**
+**Itaú** via BRQ — biggest bank in Latin America · **Betterfly** — InsurTech unicorn, Chile · **Tradex Solutions** — trademarketing startup · **Skuad** — marketing &amp; UX startup
 
 ---
 
