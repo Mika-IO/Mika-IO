@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/typing.gif" width="400" alt="typing" />
+<img src="https://i.pinimg.com/originals/76/ff/c5/76ffc5fb70db2ccf794d84a714147b93.gif" width="400" alt="typing" />
 
-# Mikaio Faria
-
-### Senior Software Engineer · Backend &amp; AI
+# Mikaio Faria - Senior Software Engineer · Backend &amp; AI
 
 Cloud-native financial &amp; data systems in Python — and the AI products on top of them.
 
