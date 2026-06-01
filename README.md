@@ -1,6 +1,7 @@
 <div align="center">
 
-# Mikaio Faria - Senior Software Engineer · Backend &amp; AI
+# Mikaio Faria 
+### Senior Software Engineer · Backend &amp; AI
 
 Cloud-native financial &amp; data systems in Python — and the AI products on top of them.
 
