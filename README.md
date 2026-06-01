@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/76/ff/c5/76ffc5fb70db2ccf794d84a714147b93.gif" width="400" alt="typing" />
-
 # Mikaio Faria - Senior Software Engineer · Backend &amp; AI
 
 Cloud-native financial &amp; data systems in Python — and the AI products on top of them.
 
 [**Website**](https://mikaio.dev) · [**Resume**](https://mikaio.dev/resume.pdf) · [**LinkedIn**](https://www.linkedin.com/in/mikaiofaria/) · [**Blog**](https://mikaio.dev/blog)
 
+<img src="https://i.pinimg.com/originals/76/ff/c5/76ffc5fb70db2ccf794d84a714147b93.gif" width="400" alt="typing" />
 </div>
 
 ---
