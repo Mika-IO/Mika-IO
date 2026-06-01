@@ -6,7 +6,7 @@ Cloud-native financial &amp; data systems in Python — and the AI products on t
 
 [**Website**](https://mikaio.dev) · [**Resume**](https://mikaio.dev/resume.pdf) · [**LinkedIn**](https://www.linkedin.com/in/mikaiofaria/) · [**Blog**](https://mikaio.dev/blog)
 
-<img src="[https://i.pinimg.com/originals/76/ff/c5/76ffc5fb70db2ccf794d84a714147b93.gif](https://github.com/user-attachments/assets/8ea57354-4e89-47fb-8462-c2c68e2cd511)" width="400" alt="typing" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/8ea57354-4e89-47fb-8462-c2c68e2cd511" />
 
 </div>
 
