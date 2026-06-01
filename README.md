@@ -75,7 +75,6 @@ Currently a Senior Software Developer at **Itaú** (via BRQ Digital), building m
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikaiodev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5569992583935?text=Ol%C3%A1%20Mikaio!%20Vim%20pelo%20GitHub!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaiofaria/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/mlevanto)
 [![Website](https://img.shields.io/badge/mikaio.dev-0a0a0c?style=flat&logo=googlechrome&logoColor=white)](https://mikaio.dev)
 
 </div>
