@@ -58,7 +58,7 @@ Currently a Senior Software Developer at **Itaú** (via BRQ Digital), building m
 ### Where I've worked
 
 **Itaú** via BRQ — biggest bank in Latin America · **Betterfly** — InsurTech unicorn, Chile · **Tradex Solutions** — trademarketing startup · **Skuad** — marketing &amp; UX startup
-<!-- seu comentário aqui
+
 ---
 
 <div align="center">
@@ -69,7 +69,7 @@ Currently a Senior Software Developer at **Itaú** (via BRQ Digital), building m
 </div>
 
 ---
- -->
+
 ### Let's talk
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikaiodev@gmail.com)
